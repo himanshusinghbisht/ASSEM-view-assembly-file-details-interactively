@@ -39,7 +39,7 @@ ex-
 let's assume that the name of object file is helloworld or a.out
 
 //for helloworld
-file=helloworld // no spaces after or before =
+file=helloworld                                  // no spaces after or before =
 ./ASSEM
 
 //for a.out
