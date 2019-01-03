@@ -1,5 +1,5 @@
 # ASSEM-view-assembly-file-details-interactively
-ASSEM can be used to view assembly ( .out) file contents in a menu drive format.
+ASSEM can be used to view assembly ( .out) file contents in a menu driven format.
 
 This tool is for linux distros!
 
